@@ -1,5 +1,5 @@
 # Facial Keypoints Detection
-<img width="235" height="121" alt="header" src="https://github.com/user-attachments/assets/d9a7579a-e7b9-460b-adc2-7a77eed0898d" />
+<img width="560" height="280" alt="header" src="https://github.com/user-attachments/assets/29549268-724b-4a5b-b500-2bc9c4f067c3" />
 
 # Description
 The objective of this task is to predict keypoint positions on face images. This can be used as a building block in several applications, such as:
